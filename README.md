@@ -24,3 +24,32 @@ To further enhance the system, we implemented matrix factorization using Singula
 In terms of scalability, several important actions were taken. We optimized data handling by using matrix operations instead of loops wherever possible, which significantly improved computational efficiency. The use of cosine similarity and SVD allows the system to scale to larger datasets with minimal modifications. Additionally, we implemented model persistence by saving similarity matrices, enabling reuse without recomputation. We also designed a recommendation pipeline that integrates multiple methods, allowing the system to be extended or modified easily. These steps ensure that the system can handle larger datasets and more users in real-world applications. This recommendation system has wide applicability in various domains. It can be used in movie streaming platforms to suggest films to users, in e-commerce websites to recommend products, and in music streaming services to suggest songs based on listening history. The techniques used in this task are fundamental to many modern recommendation engines used by platforms like Netflix and Amazon. Through this task, we gained practical experience in building, analyzing, and improving recommendation systems using both basic and advanced machine learning techniques.
 
 *OUTPUTS*:
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/19fb8960-ca3e-45f5-a31a-b2864af6df6c" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/cdeaa995-ae41-409a-8d63-e97005657e9f" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/89e79c9f-4768-4779-9ae0-d45e3ecfc02c" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/435395f5-891a-4e0d-82a6-0eb430ddeb74" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/b8b25a4f-3d30-4ae1-b003-53a1cc56f6b5" />
+
+<img width="2553" height="1060" alt="Image" src="https://github.com/user-attachments/assets/262e4b3a-00aa-4303-87da-d9316ae1f956" />
+
+<img width="17" height="12" alt="Image" src="https://github.com/user-attachments/assets/50df4b1d-68b9-4d20-b6c5-50135551926b" />
+
+<img width="2545" height="1184" alt="Image" src="https://github.com/user-attachments/assets/0210079f-793f-4a0d-83e8-391cb465bb44" />
+
+<img width="1447" height="1301" alt="Image" src="https://github.com/user-attachments/assets/6e531343-3502-45b2-8494-0816979b807b" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/85d520fa-5ea7-4f5c-a5af-e830e5b7f28b" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/06be75fc-f5a8-4471-b72f-affbf4c4a9d6" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/9765df01-e667-44ad-970b-9a22c702e5d4" />
+
+<img width="2559" height="1137" alt="Image" src="https://github.com/user-attachments/assets/1e6663d3-4245-46e6-9f64-9976e8964c39" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/0c67f58c-ea89-45b7-a82d-620e22238b0b" />
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/0fa17b5c-7005-4192-88e2-a294d047c515" />
